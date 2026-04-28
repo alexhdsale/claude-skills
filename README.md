@@ -27,7 +27,9 @@ These are top-tier collections I haven't installed yet but should:
 | Repo | Stars | Why |
 |---|---:|---|
 | [`anthropics/skills`](https://github.com/anthropics/skills) | official | **The official Anthropic repo** — 17 production-quality skills (docx/pdf/xlsx/pptx, MCP dev, web testing, etc). Power Claude.ai's document features. |
-| [`obvious-incantations/Superpowers`](https://github.com/obvious-incantations/Superpowers) | ~94k | Anthropic-accepted marketplace skill. Enforces a 7-phase workflow: Brainstorm → Spec → Plan → TDD → Subagent → Review → Finalize. |
+| [`obra/superpowers`](https://github.com/obra/superpowers) | ~94k | Agentic skills framework + 7-phase workflow (Brainstorm → Spec → Plan → TDD → Subagent → Review → Finalize). The reigning meta-skill. |
+| [`obra/superpowers-chrome`](https://github.com/obra/superpowers-chrome) | — | **Direct Chrome control via DevTools Protocol** from Claude Code, zero deps. Skips the manual `--remote-debugging-port` setup. |
+| [`obra/superpowers-marketplace`](https://github.com/obra/superpowers-marketplace) | — | Curated Claude Code plugin marketplace by the Superpowers author. |
 | [`VoltAgent/awesome-agent-skills`](https://github.com/VoltAgent/awesome-agent-skills) | curated | 1000+ agent skills, multi-tool (Claude Code, Codex, Gemini CLI, Cursor). |
 | [`travisvn/awesome-claude-skills`](https://github.com/travisvn/awesome-claude-skills) | curated | Quality "awesome list" of community skills. |
 
